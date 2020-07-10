@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: SpicePyBot
 description: usage statistics
+show_downloads: true
 logo: ./img/logo_SpicePy.png
