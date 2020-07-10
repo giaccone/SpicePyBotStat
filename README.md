@@ -2,9 +2,9 @@
 
 **SpicePyBot** is a Telegram bot that allow you to simulate linear circuits. It is used mainly in classroom since semtember 2017.
 
-**Link to the source code -->** [here](https://github.com/giaccone/SpicePyBot)
+*Link to the source code -->* [here](https://github.com/giaccone/SpicePyBot)
 
-**Link to the documentation -->** [here](https://github.com/giaccone/SpicePyBot/wiki).
+*Link to the documentation -->* [here](https://github.com/giaccone/SpicePyBot/wiki).
 
 
 ### Analysis performed
@@ -34,7 +34,7 @@ Fig. 2 - increase of users
 Fig. 3 - increase of analyses
 </p>
 
-### Usage day-by-bay
+### Usage day-by-day
 In the following one can se the daily usage of the bot (Fig. 4 and Fig. 5).
 
 <p align="center">
