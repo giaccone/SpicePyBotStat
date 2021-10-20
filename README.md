@@ -16,7 +16,7 @@ Fig. 1 - analysis performed with SpicePyBot
 </p>
 
 ### Usage during time
-SpicePyBot is used since 2017. Fig. 2 shows the increse uf users during time whereas Fig. 3 the increase of analyses.
+SpicePyBot is used since 2017. Fig. 2 shows the increse of users during time whereas Fig. 3 the increase of analyses.
 
 <p align="center">
 <img src="./img/fig3_Stacked_bar_user.png" width="450">
@@ -33,7 +33,7 @@ Fig. 3 - increase of analyses
 </p>
 
 ### Usage day-by-day
-In the following one can see the daily usage of the bot (Fig. 4 and Fig. 5).
+In the following, one can see the daily usage of the bot (Fig. 4 and Fig. 5).
 
 <p align="center">
 <img src="./img/fig2_Users_per_day.png" width="450">
