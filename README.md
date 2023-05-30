@@ -6,7 +6,7 @@
 
 
 ### Analysis performed
-Currently, SpicePyBot has been used by 2411 users for a total of 34749 analysis. Fig. 1 shows the percentages of the different analysis (`.op` = operating point, `.tran` = transient, `.ac` = alternating current).
+Currently, SpicePyBot has been used by 2490 users for a total of 36299 analysis. Fig. 1 shows the percentages of the different analysis (`.op` = operating point, `.tran` = transient, `.ac` = alternating current).
 
 <p align="center">
 <img src="./img/fig4_Analysis_percentage.png" width="450">
